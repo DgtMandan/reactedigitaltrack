@@ -1,0 +1,60 @@
+.Prenav{
+    background-color: #000;
+    display: flex;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.PreBorder{
+    border-bottom: 1px solid #c9c9c933 !important;
+
+}
+.social-icon{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.social-icon i{
+    font-size: 18px;
+    color: #f6f306 !important;
+}
+
+.social-icon i:hover{
+    font-size: 18px;
+    color: #c9c9c9!important;
+}
+.prenavbar_address{
+    display: flex;
+    justify-content: flex-end;
+}
+.prenavbar_address i{
+    font-size: 20px !important;
+    color: #f6f306;
+}
+.prenavbar_address p{
+    font-size: 17px !important;
+    color: #c9c9c9;
+    font-weight: 500 !important;
+    font-family: 'Poppins',Helvetica,Arial,Lucida,sans-serif !important;
+    list-style: none;
+    text-decoration: none;
+}
+.prenavbar_address p:hover{
+    font-size: 17px !important;
+    color: #f6f306;
+    font-weight: 500 !important;
+    font-family: 'Poppins',Helvetica,Arial,Lucida,sans-serif !important;
+   
+}
+.prenavbar_address Link:hover{
+    text-decoration: none !important;
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+  
+    text-decoration: none !important;
+}

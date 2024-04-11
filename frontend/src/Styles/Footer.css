@@ -1,0 +1,19 @@
+.Footer{
+    background-color: black;
+    padding: 50px 0px;
+}
+
+.Footer img{width: 60%;}
+p{color: #cccccc;margin-top: 10px;}
+
+h2{font-weight: 600;
+    color: #f6f306!important;
+    line-height: 1.4em;font-family: 'Poppins',Helvetica,Arial,Lucida,sans-serif !important;
+    font-size: 22px !important;
+}
+i{color: #f6f306 !important;}
+.logo_area p{padding-right: 80px;}
+.footersocial-icon{
+    display: flex;
+    justify-content: space-around;
+}

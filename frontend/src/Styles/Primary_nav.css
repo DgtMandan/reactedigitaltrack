@@ -1,0 +1,32 @@
+.Primary_nav{
+    background-color: black;
+}
+.navbar-light .navbar-nav .nav-link{
+    font-size: 16px !important;
+    color: #c4c4c4!important;
+    font-weight: 500;
+}
+
+.Primary_nav img{
+    width: 60% !important;
+}
+
+a.nav-link {
+    color: #c9c9c9 !important;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins',Helvetica,Arial,Lucida,sans-serif !important;
+    transition: color 300ms ease 0ms;
+    letter-spacing: 0.5px;
+}
+.nav li {
+    position: relative;
+    line-height: 1em;
+}
+li Link:active{
+    color: #f6f306 !important;
+}
+.nav-icon i{
+    font-size: 22px !important;
+
+}
