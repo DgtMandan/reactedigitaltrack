@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactedigitaltrack/static/css/main.1ff56a66.css",
+    "main.js": "/reactedigitaltrack/static/js/main.ee3536ca.js",
+    "static/media/NBMG-iphone-1 (1) (1).png": "/reactedigitaltrack/static/media/NBMG-iphone-1 (1) (1).33c0be652de6c100b0a3.png",
+    "static/media/63908140.png": "/reactedigitaltrack/static/media/63908140.000e912c20b4eaefff35.png",
+    "static/media/Hero-BG.jpg": "/reactedigitaltrack/static/media/Hero-BG.35ade2af3acde313a4c3.jpg",
+    "static/media/Customer-Acquisition-Graph-v3.png": "/reactedigitaltrack/static/media/Customer-Acquisition-Graph-v3.a3b22e67c9be44afe9da.png",
+    "static/media/Digital track.png": "/reactedigitaltrack/static/media/Digital track.4f650117e21e7fb200fd.png",
+    "static/media/Google-My-Business-Image.png": "/reactedigitaltrack/static/media/Google-My-Business-Image.c2133e02ff07d195e451.png",
+    "static/media/How-Does-Your-Business-BG.jpg": "/reactedigitaltrack/static/media/How-Does-Your-Business-BG.54ac0862cb3c4ca081b7.jpg",
+    "static/media/Free-Consultations-BG.jpg": "/reactedigitaltrack/static/media/Free-Consultations-BG.96a8dd09972168c1eef9.jpg",
+    "index.html": "/reactedigitaltrack/index.html",
+    "main.1ff56a66.css.map": "/reactedigitaltrack/static/css/main.1ff56a66.css.map",
+    "main.ee3536ca.js.map": "/reactedigitaltrack/static/js/main.ee3536ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff56a66.css",
+    "static/js/main.ee3536ca.js"
+  ]
+}
